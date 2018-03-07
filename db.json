@@ -1,11 +1,36 @@
 {
   "posts": [
     {
+      "id": 1,
       "business_name": "Apple",
       "business_type": "for profit",
       "market_type": "B2C",
       "job_to_be_done": "a great electronic gadgets along with having a friendly-customer environment",
-      "revenue_model": "value proposition"
+      "revenue_model": "business model"
+    },
+    {
+      "id": 2,
+      "business_name": "Netflex",
+      "business_type": "for profit",
+      "market_type": "B2C",
+      "job_to_be_done": "to watch a video-on demand or streaming media online",
+      "revenue_model": "business model"
+    },
+    {
+      "id": 3,
+      "business_name": "Tesla",
+      "business_type": "for profit",
+      "market_type": "B2C",
+      "job_to_be_done": "driver consumers who needs electric automotives and wants to embrace a green technology",
+      "revenue_model": "business model"
+    },
+    {
+      "id": 4,
+      "business_name": "Amazon",
+      "business_type": "for profit",
+      "market_type": "B2C",
+      "job_to_be_done": "an online or social network customers who needs to buy their desired product online",
+      "revenue_model": "business model"
     }
   ],
   "profile": {
